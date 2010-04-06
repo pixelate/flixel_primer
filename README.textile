@@ -9,4 +9,4 @@ This project was compiled against Flixel v2.32, Flex SDK 4.0 and Flash Player 10
 
 Includes "Flixel":http://github.com/AdamAtomic/flixel source files by Adam Saltsman. Sounds made with "Cfxr":http://thirdcog.eu/apps/cfxr by DrPetter and Third Cog Software. Game sprites inspired by Defender from Williams.
 
-Please see tutorial at "CreativeApplications.Net":http://www.creativeapplications.net for more information.
+Please see tutorial at "CreativeApplications.Net":http://www.creativeapplications.net/flash/flixel-2-tutorial-flash-tutorials-games/ for more information.
