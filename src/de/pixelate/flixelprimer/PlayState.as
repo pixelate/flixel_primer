@@ -20,7 +20,7 @@ package de.pixelate.flixelprimer
 		{
 			FlxG.score = 0;
 			
-			bgColor = 0x0ABCC7D;
+			bgColor = 0xFFABCC7D;
 			
 			_ship = new Ship();			
 			add(_ship);
